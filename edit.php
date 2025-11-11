@@ -19,6 +19,7 @@ if (isset($_POST['update'])) {
     mysqli_query($conn, $query);
     header("Location: index.php");
 }
+//<!-- This is a comment -->//
 ?>
 
 <!DOCTYPE html>
