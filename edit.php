@@ -20,7 +20,7 @@ if (isset($_POST['update'])) {
     header("Location: index.php");
 }
 ?>
-
+<!-- This is a comment --> 
 <!DOCTYPE html>
 <html lang="id">
 <head>
